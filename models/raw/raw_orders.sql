@@ -6,4 +6,5 @@
 
 select 
     *
-from RAW.GLOBALMART.ORDERS
+from 
+    RAW.GLOBALMART.ORDERS
