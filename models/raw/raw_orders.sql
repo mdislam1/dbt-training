@@ -6,5 +6,4 @@
 
 select 
     *
-    -- ordersellingprice - ordercostprice as Profit 
 from RAW.GLOBALMART.ORDERS
