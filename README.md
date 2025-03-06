@@ -1,4 +1,4 @@
-# Global Mart DBT Project
+# Data Transformation and Analytics Pipeline with DBT (Data Build Tool)
 
 This DBT (Data Build Tool) project is designed to transform and analyze data for Global Mart, a company that sells household items like furniture, office equipment, appliances, and electronics. The project includes data transformation, testing, documentation, and deployment processes.
 
@@ -156,4 +156,3 @@ dbt docs serve
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
