@@ -1,6 +1,3 @@
-Here’s the complete `README.md` file with all the requested sections included in a **single, copyable file**:
-
-```markdown
 # Global Mart DBT Project
 
 This DBT (Data Build Tool) project is designed to transform and analyze data for Global Mart, a company that sells household items like furniture, office equipment, appliances, and electronics. The project includes data transformation, testing, documentation, and deployment processes.
